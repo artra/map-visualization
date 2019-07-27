@@ -1,0 +1,10 @@
+.trip-map .leaflet-container
+{
+  width: 500px;
+  height: 500px;
+}
+
+.trip-map__icon-hovered
+{
+  filter: saturate(3);
+}
